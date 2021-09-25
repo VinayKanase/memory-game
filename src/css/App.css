@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Gluten:wght@700&display=swap");
+
+.heading {
+  font-family: "Gluten", sans-serif;
+  letter-spacing: 2px;
+  line-height: 75px;
+  text-align: center;
+  background-color: blue;
+  color: white;
+  font-size: 3.6rem;
+}
